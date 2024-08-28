@@ -12,6 +12,6 @@ chmod 777 ./fa-fancontrol-direct.sh
 
 cd /etc/init.d
 rm ./fa-fancontrol
-wget https://raw.githubusercontent.com/ZiGmaX809/R4S_Fans/main/fa-fancontrol
+wget https://raw.githubusercontent.com/hza1128/R4S_Fans/main/fa-fancontrol
 chmod 777 ./fa-fancontrol
 /etc/init.d/fa-fancontrol enable
