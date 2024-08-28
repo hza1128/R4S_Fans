@@ -4,8 +4,8 @@ cd /usr/bin/
 rm ./fa-fancontrol.sh
 rm ./fa-fancontrol-direct.sh
 
-wget https://raw.githubusercontent.com/ZiGmaX809/R4S_Fans/main/fa-fancontrol.sh
-wget https://raw.githubusercontent.com/ZiGmaX809/R4S_Fans/main/fa-fancontrol-direct.sh
+wget https://raw.githubusercontent.com/hza1128/R4S_Fans/main/fa-fancontrol.sh
+wget https://raw.githubusercontent.com/hza1128/R4S_Fans/main/fa-fancontrol-direct.sh
 
 chmod 777 ./fa-fancontrol.sh
 chmod 777 ./fa-fancontrol-direct.sh
