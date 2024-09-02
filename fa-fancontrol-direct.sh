@@ -33,8 +33,8 @@ echo 25000 > /sys/class/pwm/pwmchip1/pwm0/duty_cycle
 # declare -a CpuTemps=(55000 43000 38000 32000)
 # declare -a PwmDutyCycles=(1000 20000 30000 45000)
 
-declare -a CpuTemps=(60000 52000 45000 41000)
-declare -a PwmDutyCycles=(10000 25000 35000 46990)
+declare -a CpuTemps=(60000 52000 46000 42000)
+declare -a PwmDutyCycles=(25000 35000 45000 46990)
 
 declare -a Percents=(100 75 50 25)
 DefaultDuty=49990
